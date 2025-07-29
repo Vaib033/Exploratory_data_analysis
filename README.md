@@ -11,6 +11,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the given d
   - numpy
   - matplotlib
   - seaborn
+  - Jupyter Notebook
 
 
 # Key Steps in the EDA
